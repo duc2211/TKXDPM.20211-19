@@ -10,7 +10,7 @@ Tuần 2:
 - Hồ Phan Anh 20146015: Viết đặc tả chức năng quản lý đơn hàng, quản lý bài viết.
 - Nguyễn Hà Minh Đức 20176009: Viết đặc tả chức năng báo cáo thống kê, đặc tả chức năng mua hàng và thanh toán.
 Tuần 3:
-- Nguyễn Đức Cường: 
+- Nguyễn Đức Cường: Thiết kế biểu đồ tương tác chức năng quản lý giỏ hàng, quản lý sản phẩm.
 - Nguyễn Thị Sen 20187196:
 - Hồ Phan Anh 20146015:
 - Nguyễn Hà Minh Đức 20176009: Thiết kế biểu đồ tương tác chức năng báo cáo thống kê, biểu đồ tương tác chức năng mua hàng và thanh toán
